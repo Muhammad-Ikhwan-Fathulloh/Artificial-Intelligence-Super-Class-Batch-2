@@ -2,7 +2,7 @@
 
 ## Hands On Natural Language Processing (NLP)
 
-### 2. Introduction NLP and Text Processing
+### 1. Introduction NLP and Text Processing
 <ul>
 <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Artificial-Intelligence-Super-Class-Batch-2/tree/main/Text_Preprocessing">Text Processing</a></li>
 </ul>
@@ -48,9 +48,61 @@
 <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Artificial-Intelligence-Super-Class-Batch-2/tree/main/Text_Generation">Text Generation</a></li>
 </ul>
 
+## Hands On Computer Vision (CV)
+
+### 1. Introduction to Computer Vision and Image Processing
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 2. Image Classification
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 3. Single Object Detection
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 4. Semantic Segmentation
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 5. Object Detection
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 6. Instance Segmentation
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 7. Text Recognition
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 8. Optical Character Recognition (OCR)
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 9. Face Recognition
+<ul>
+<li>Coming soon</li>
+</ul>
+
+### 10. How to Optimize your Computer Vision Performance
+<ul>
+<li>Coming soon</li>
+</ul>
+
 ## Hands On Large Language Model (LLM)
 
-### 2. Introduction to LLM (Large Language Model)
+### 1. Introduction to LLM (Large Language Model)
 <ul>
 <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Artificial-Intelligence-Super-Class-Batch-2/tree/main/Introduction_LLM">Introduction to LLM</a></li>
 </ul>
